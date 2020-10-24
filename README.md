@@ -1,6 +1,6 @@
-using System;
-using System.Threading;
-using static System.Console;
+#using System;
+#using System.Threading;
+#using static System.Console;
 
 namespace Snake_Game
 {
