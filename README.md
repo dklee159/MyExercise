@@ -1,8 +1,12 @@
-#using System;
-#using System.Threading;
-#using static System.Console;
+# MyExercise
+For public
+Snake_Game
 
-#namespace Snake_Game
+using System;
+using System.Threading;
+using static System.Console;
+
+namespace Snake_Game
 {
     class Program
     {
@@ -96,7 +100,7 @@
 
             static void Main(string[] args)
             {
-               
+
                 bool gamestate = true;
                 bool isWallHit = false;
                 decimal gameSpeed = 150m;
@@ -107,8 +111,8 @@
                 CursorVisible = false;
 
                 Random rand = new Random();
-                
-               
+
+
                 bool state = true;
 
                 while (state)
@@ -282,5 +286,3 @@
         }
     }
 }
-    
-
