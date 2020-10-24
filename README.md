@@ -2,7 +2,7 @@
 #using System.Threading;
 #using static System.Console;
 
-namespace Snake_Game
+#namespace Snake_Game
 {
     class Program
     {
