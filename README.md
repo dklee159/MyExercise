@@ -1,6 +1,3 @@
-# MyExercise
-Snake_Game
-
 using System;
 using System.Threading;
 using static System.Console;
